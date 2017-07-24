@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.pankaj.downloadmanager.DownloadObjView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/download_list_row_parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:elevation="8dp"
+    android:orientation="vertical" />

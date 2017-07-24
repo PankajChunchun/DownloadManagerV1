@@ -1,0 +1,26 @@
+# --table-start--
+dataClass=com.pankaj.downloadmanager.downloadmanager.beans.DownloadableObject
+tableName=download_details
+# --table-fields-start--
+# --field-start--
+fieldName=mId
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=mDmId
+# --field-end--
+# --field-start--
+fieldName=mDownloadStatus
+# --field-end--
+# --field-start--
+fieldName=mDownloadUrl
+# --field-end--
+# --field-start--
+fieldName=mDownloadedPercent
+# --field-end--
+# --field-start--
+fieldName=mLastEmittedDownloadedPercent
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

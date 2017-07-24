@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dm_error_prefix">dm_error_</string>
+    <string name="dm_error_1000">Unknown Error</string>
+    <string name="dm_error_1001">Unknown Storage Issue</string>
+    <string name="dm_error_1002">Download manager can\'t handle request</string>
+    <string name="dm_error_1003"></string>
+    <string name="dm_error_1004">Error while receiving or processing data</string>
+    <string name="dm_error_1005">Too many redirects</string>
+    <string name="dm_error_1006">Insufficient storage space</string>
+    <string name="dm_error_1007">SD card is not mounted</string>
+    <string name="dm_error_1008">Can\'t resume the download</string>
+    <string name="dm_error_1009">Destination file already exists</string>
+</resources>
