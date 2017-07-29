@@ -29,8 +29,8 @@ public final class Constants {
         public static String ACTION_UPDATE_UI_ON_DOWNLOADED = "com.pankaj.downloadmanager.ACTION_UPDATE_UI_ON_DOWNLOADED";
         public static String ACTION_TRACK_PROGRESS = "com.pankaj.downloadmanager.ACTION_TRACK_PROGRESS";
         public static String ACTION_LAUNCH_APP = "com.pankaj.downloadmanager.ACTION_LAUNCH_APP";
-        public static String STARTFOREGROUND_ACTION = "com.marothiatechs.foregroundservice.action.startforeground";
-        public static String STOPFOREGROUND_ACTION = "com.marothiatechs.foregroundservice.action.stopforeground";
+        public static String STARTFOREGROUND_ACTION = "com.pankaj.downloadmanager.ACTION_STARTFOREGROUND";
+        public static String STOPFOREGROUND_ACTION = "com.pankaj.downloadmanager.ACTION_STOPFOREGROUND";
     }
 
     public static final class Extra {
